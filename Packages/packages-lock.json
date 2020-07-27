@@ -93,20 +93,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:../../com.unity.ml-agents",
+      "version": "1.0.3",
       "depth": 0,
-      "source": "local",
+      "source": "registry",
       "dependencies": {
         "com.unity.barracuda": "1.0.1"
-      }
-    },
-    "com.unity.ml-agents.extensions": {
-      "version": "file:../../com.unity.ml-agents.extensions",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.unity.ml-agents": "1.2.0-preview"
-      }
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.purchasing": {
       "version": "2.0.6",
